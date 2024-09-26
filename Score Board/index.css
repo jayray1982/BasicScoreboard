@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    background-color: black;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    background-Color: darkred;
+    color: white;
+    
+}
+
+.newButton {
+    display: flex;
+    justify-content: center;
+}
