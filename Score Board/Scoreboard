@@ -12,7 +12,7 @@
                 <button onClick = "homeAdd6Points()">+6</button>
             </div>
             <div>
-                <h3>GUEST</h3>
+                <h3>AWAY</h3>
                 <H2 id = "Guest-Score">0</H2>
                 <button onClick = "guestAdd1Point()">+1</button>
                 <button onClick = "guestAdd2Points()">+2</button>
